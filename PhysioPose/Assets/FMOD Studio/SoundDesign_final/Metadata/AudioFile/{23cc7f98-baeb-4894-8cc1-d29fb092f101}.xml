@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{23cc7f98-baeb-4894-8cc1-d29fb092f101}">
+		<property name="assetPath">
+			<value>service-bell-ring-14610.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8.9039999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{665a5b5c-620b-4776-a9ef-c6c2da275683}</destination>
+		</relationship>
+	</object>
+</objects>

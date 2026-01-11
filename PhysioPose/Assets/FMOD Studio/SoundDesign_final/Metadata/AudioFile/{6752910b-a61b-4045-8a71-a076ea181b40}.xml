@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6752910b-a61b-4045-8a71-a076ea181b40}">
+		<property name="assetPath">
+			<value>SFX/Squishy/squishy-sounds-near-71005 - Trimmed.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.16504166666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{665a5b5c-620b-4776-a9ef-c6c2da275683}</destination>
+		</relationship>
+	</object>
+</objects>

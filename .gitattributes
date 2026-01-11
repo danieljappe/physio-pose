@@ -1,0 +1,20 @@
+*.asset filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
+Artifact/** filter=lfs diff=lfs merge=lfs -text
+ArtifactDB/** filter=lfs diff=lfs merge=lfs -text
+Artifacts/** filter=lfs diff=lfs merge=lfs -text
+PackageCache/** filter=lfs diff=lfs merge=lfs -text
+BurstCache/** filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+*.tga filter=lfs diff=lfs merge=lfs -text
+=======
+*.pdf filter=lfs diff=lfs merge=lfs -text
+>>>>>>> origin/Jeremy
+*.psd filter=lfs diff=lfs merge=lfs -text
